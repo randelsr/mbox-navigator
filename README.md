@@ -111,8 +111,9 @@ all deliverables are completed by end of day Thursday.
 Best regards,
 Your Manager
 ================================================================================
+```
 
-### MBox Split
+# MBox Split
 
 The `mbox-split.py` tool helps you extract messages from a specific year from an mbox file. This is useful when you need to filter large mailbox archives by date.
 
