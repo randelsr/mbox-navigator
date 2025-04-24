@@ -1,0 +1,22 @@
+# Python virtual environment
+/venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local environment files
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db 
